@@ -1,0 +1,10 @@
+{
+  "description": "Create and customize responsive layouts effortlessly to enhance web design workflows and improve user experience across devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
